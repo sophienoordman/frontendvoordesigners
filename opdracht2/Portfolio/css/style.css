@@ -52,7 +52,7 @@ section:nth-child(6) {
     background-color: #607D8B
 }
 
-.intro-text {
+.show-up {
     width: 30%;
     opacity: 0;
     transform: translateY(20px);
